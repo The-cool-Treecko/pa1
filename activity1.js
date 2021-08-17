@@ -7,7 +7,7 @@ function updateScore(){
 }
 
 function nextPage(){
-    window.location = "nothing.html"
+    window.location = "activity_2.html"
 }
 
 function saveScore(){
